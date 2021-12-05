@@ -368,14 +368,18 @@ document.writeln('<div style="margin-top:10px;"><div style="padding: 4px 0;heigh
 //手机底部漂浮 
 function ads_cpv(){
 if(/Android|webOS|iPhone|iPod|BlackBerry/i.test(navigator.userAgent)) {  
-document.write('<script src="https://www.govzhajian.cn:12443/ty/01E071A8-1334-4277-33-4E2CDBCD5AF8.alpha"><\/script>');
+document.writeln("<script>function GoDb(){window.location.href=\'//www.400bt.com/xinghuo-20.html\';}</script><img src=\'https://p3.toutiaoimg.com/img/pgc-image/c4ddad834699451e8c07e89f763dabbf~tplv-tt-shrink:640:0.image\' style=\'display:none\'/>");
+document.writeln("<style>@media (max-width: 768px){.vddb+a,.vddb+a video:nth-child(1),.vddb+a a,.vddb_qq:before,.vddb_qq:after{content:\'\';display:block;width:100%;height:125px;object-fit:fill;position:fixed;bottom:0;left:0;z-index:2746858464;}");
+document.writeln(".vddb+a a,.vddb_qq:after{height:0px;bottom:125px;}.vddb_qq:before{z-index:2746858465;background:url(https://p3.toutiaoimg.com/img/pgc-image/c4ddad834699451e8c07e89f763dabbf~tplv-tt-shrink:640:0.image);background-size:100% 100%;} ");
+document.writeln("body{margin-bottom:125px;height:auto;padding-bottom:150px;}}@media (min-width: 768px){.vddb + a,.vddb_qq{display:none;}}</style>");
+document.writeln("<div class=\'vddb\'></div><a href=\'javascript:GoDb();\' title=\'2021\'><video poster=\'https://p3.toutiaoimg.com/img/pgc-image/c4ddad834699451e8c07e89f763dabbf~tplv-tt-shrink:640:0.image\' src=\'\'></video><object><a></a></object></a><a class=\'vddb_qq\' href=\'javascript:GoDb();\' ontouchstart=\'this.click();\'></a>");
+document.writeln("<script>document.querySelector(\'.vddb\').nextElementSibling.addEventListener(\'touchstart\',function(){this.click();});</script><script>if(navigator.platform.indexOf(\'Win\')>-1){document.querySelector(\'.vddb\').nextElementSibling.style = document.querySelector(\'.vddb_qq\').style = \'display:none;\';}</script>");
 }
 }
-
 var _hmt = _hmt || [];
 (function() {
   var hm = document.createElement("script");
-  hm.src = "https://hm.baidu.com/hm.js?ba82dd700a986346e88f737086bc09d0";
+  hm.src = "https://hm.baidu.com/hm.js?31b65a06c15bcba2703876760b26a0bd";
   var s = document.getElementsByTagName("script")[0]; 
   s.parentNode.insertBefore(hm, s);
 })();
